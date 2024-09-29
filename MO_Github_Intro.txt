@@ -1,4 +1,9 @@
 # Hier eure Namen eintragen :) 
+Konstantin Milonas
+Thomas,Sebastian,Yana
+Serhii Sotnichenko
+Yana, Martin, Thomas, Sebastian
+Mindo Siagian
 Thomas Köhler
 Martin Svitek
 Sebastian Bangemann
