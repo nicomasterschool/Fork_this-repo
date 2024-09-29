@@ -1,11 +1,4 @@
 # Hier eure Namen eintragen :) 
-
-Breakoutroom 2
-
-Yana
-
-Martin
-
-Thomas
-
-Sebastian
+Thomas,Sebastian,Yana
+Serhii Sotnichenko
+Yana, Martin, Thomas, Sebastian
