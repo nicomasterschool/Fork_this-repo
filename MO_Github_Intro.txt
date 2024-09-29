@@ -1,3 +1,4 @@
-# Hier eure Namen eintragen :)
+# Hier eure Namen eintragen :) 
 Thomas,Sebastian,Yana
 Serhii Sotnichenko
+Yana, Martin, Thomas, Sebastian
